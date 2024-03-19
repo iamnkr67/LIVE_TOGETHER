@@ -1,3 +1,1 @@
-
-![](pcView.png)
-
+![](pcView.jpeg)
