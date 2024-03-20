@@ -931,15 +931,15 @@ footer .btn:hover {
     margin: 20px;
     /* align-self: center; */
   }
+  .totalcard {
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
 }
 
 @media screen and (max-width: 1000px) {
   .feedbox form input,
   .feedbox form .fname {
     width: 100%;
-  }
-    .totalcard {
-    flex-direction: column;
-    flex-wrap: wrap;
   }
 }
