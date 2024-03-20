@@ -920,6 +920,9 @@ footer .btn:hover {
 	.title {
 		margin-top: 0px;
 	}
+       .review-text {
+               overflow-x: auto;
+        }
 }
 @media screen and (min-width: 0px) {
 	footer .btn {
