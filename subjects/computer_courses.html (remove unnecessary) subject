@@ -21,16 +21,16 @@
           <img src="../images/icon/menu.png" />
         </div>
         <ul id="list-switch">
-          <li>
+          <!-- <li>
             <a href="jee.html"
               ><img src="../images/courses/d1.png" class="icon" />JEE</a
             >
-          </li>
-          <li>
+          </li> -->
+          <!-- <li>
             <a href="gate.html"
               ><img src="../images/courses/paper.png" class="icon" />GATE</a
             >
-          </li>
+          </li> -->
           <li>
             <a href="#"
               ><img src="../images/courses/computer.png" class="icon" />Computer
