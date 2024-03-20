@@ -938,4 +938,8 @@ footer .btn:hover {
   .feedbox form .fname {
     width: 100%;
   }
+    .totalcard {
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
 }
